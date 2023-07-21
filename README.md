@@ -28,8 +28,7 @@ Langkah-langkah untuk menginstal aplikasi:
 1. Clone repositori ini:
 
 ```bash
-git clone https://url-repositori-anda.git
-cd nama-repositori-anda
+git clone https://github.com/baynobu/testnext.git
 ```
 
 2. Install dependencies:
