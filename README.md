@@ -27,14 +27,14 @@ Langkah-langkah untuk menginstal aplikasi:
 
 1. Clone repositori ini:
 
-```bash
+```
 git clone https://url-repositori-anda.git
 cd nama-repositori-anda
 ```
 
 2. Install dependencies:
 
-```bash
+```
 npm install
 ```
 
@@ -46,7 +46,7 @@ Aplikasi ini membutuhkan beberapa konfigurasi sebelum dijalankan. Pastikan untuk
 
 Setelah melakukan instalasi dan konfigurasi, jalankan aplikasi dengan perintah berikut:
 
-```bash
+```
 npm run dev
 ```
 
